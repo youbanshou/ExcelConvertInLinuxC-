@@ -28,7 +28,7 @@ class ExcelManager : IDisposable
         };
 
         // Bookを開く
-        _workbook = _application.Workbooks.Open(@"C:\Users\NIINA\Desktop\amd-dev\sample\samplePDF.xlsx");
+        _workbook = _application.Workbooks.Open(@"C:\Users\youba\Desktop\amd-dev\sample\samplePDF.xlsx");
     }
 
     /// <summary>
@@ -50,7 +50,7 @@ class ExcelManager : IDisposable
 
             _workbook.ExportAsFixedFormat(
                 Type: XlFixedFormatType.xlTypePDF,
-                Filename: @"C:\Users\NIINA\Desktop\amd-dev\sample\sample.pdf",
+                Filename: @"C:\Users\youba\Desktop\amd-dev\sample\sample.pdf",
                 Quality: XlFixedFormatQuality.xlQualityStandard);
         }
         catch
