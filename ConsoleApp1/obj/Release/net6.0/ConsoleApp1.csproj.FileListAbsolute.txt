@@ -1,0 +1,17 @@
+C:\Users\NIINA\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\ConsoleApp1.exe
+C:\Users\NIINA\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\ConsoleApp1.deps.json
+C:\Users\NIINA\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\NIINA\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\ConsoleApp1.dll
+C:\Users\NIINA\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\ConsoleApp1.pdb
+C:\Users\NIINA\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\NIINA\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\NIINA\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.csproj.ResolveComReference.cache
+C:\Users\NIINA\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIINA\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\NIINA\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\NIINA\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\NIINA\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.dll
+C:\Users\NIINA\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\refint\ConsoleApp1.dll
+C:\Users\NIINA\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.pdb
+C:\Users\NIINA\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\NIINA\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ref\ConsoleApp1.dll
